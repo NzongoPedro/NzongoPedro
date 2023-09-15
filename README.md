@@ -2,8 +2,6 @@
 
 Eu sou Nzongo Pedro, **Estudante de Engenharia**, tenho uma paixão pelas TICS, em particular Programação, Telecom e Eletrónica. Amo resolver problemas e aceitar desafios.
 💻🐱‍👤 **Codificar** é uma das minhas maiores paixão.
-I am Afrânio Alves, **Student of Computer Engineering**, I am passionate about the world of technology, I love to solve problems that involve logical reasoning.
-🐱‍👤💻I really like to solve problems through **codes**
 
 # O que eu amo:
 
