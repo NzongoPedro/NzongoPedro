@@ -2,8 +2,21 @@
 
 Eu sou Nzongo Pedro, **Estudante de Engenharia**, tenho uma paixão pelas TICS, em particular Programação, Telecom e Eletrónica. Amo resolver problemas e aceitar desafios.
 💻🐱‍👤 **Codificar** é uma das minhas maiores paixão.
+## Minhas skils:
+- ### PHP;
+- ### VUEJS;
+- ### SQL;
+- ### CSS;
+- ### Laravel;
+- ### Arduino;
+- ### Sensores;
+- ### Redes;
+- 
+- Desenvolvedor **WEB** fullstack e freelance (**PHP, VUEJS, LARAVEL SQL**)
+- Criador e mentor de projetos eletrónicos com **Arduino** e **sensores**
+- Técnicos de **Redes** CCNA **Routers & Switch**;
 
-# O que eu amo:
+# Aptidões:
 
 - 🔭 Pesquisar e buscar novas tendências ...
 - 🌱 Proatividade e criatividade ...
