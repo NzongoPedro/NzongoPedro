@@ -1,7 +1,11 @@
 # Saudações Copilotos 👋
 
 Eu sou Nzongo Pedro, **Estudante de Engenharia**, tenho uma paixão pelas TICS, em particular Programação, Telecom e Eletrónica. Amo resolver problemas e aceitar desafios.
-💻🐱‍👤 **Codificar** é uma das minhas maiores paixão.
+💻🐱‍👤 **Codificar** é uma das minhas maiores paixão. 
+- Desenvolvedor **WEB** fullstack e freelance (**PHP, VUEJS, LARAVEL SQL**)
+- Criador e mentor de projetos eletrónicos com **Arduino** e **sensores**
+- Técnicos de **Redes** CCNA **Routers & Switch**;
+  
 ## Minhas skils:
 -  PHP;
 -  VUEJS;
@@ -11,10 +15,6 @@ Eu sou Nzongo Pedro, **Estudante de Engenharia**, tenho uma paixão pelas TICS, 
 -  Arduino;
 -  Sensores;
 -  Redes;
-  
-- Desenvolvedor **WEB** fullstack e freelance (**PHP, VUEJS, LARAVEL SQL**)
-- Criador e mentor de projetos eletrónicos com **Arduino** e **sensores**
-- Técnicos de **Redes** CCNA **Routers & Switch**;
 
 # Aptidões:
 
