@@ -5,8 +5,6 @@ Eu sou Nzongo Pedro, **Estudante de Engenharia**, tenho uma paixão pelas TICS, 
 - Desenvolvedor **WEB** fullstack e freelance (**PHP, VUEJS, LARAVEL SQL**)
 - Criador e mentor de projetos eletrónicos com **Arduino** e **sensores**
 - Técnicos de **Redes** CCNA **Routers & Switch**;
-
-- [![An image of @nzongopedro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nzongopedro)](https://holopin.io/@nzongopedro)
   
 ## Minhas skils:
 -  PHP;
