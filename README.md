@@ -15,6 +15,7 @@ Eu sou Nzongo Pedro, **Estudante de Engenharia**, tenho uma paixão pelas TICS, 
 -  Arduino;
 -  Sensores;
 -  Redes;
+-  Router e Switches
 
 # Aptidões:
 
