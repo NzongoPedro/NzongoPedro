@@ -20,12 +20,12 @@ Sou movido por desafios e acredito que a tecnologia pode transformar vidas! Vamo
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- ## 🔌 Eletrônica & IoT
+### 🔌 Eletrônica & IoT
 
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
  ![Sensores](https://img.shields.io/badge/-Sensores-FF9800?style=flat-square)
 
-## 🌐 Redes & Infraestrutura
+### 🌐 Redes & Infraestrutura
 
  ![Redes](https://img.shields.io/badge/-Redes-00A8E8?style=flat-square)
  ![CCNA](https://img.shields.io/badge/-CCNA-1F8ACB?style=flat-square)
