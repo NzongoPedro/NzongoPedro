@@ -42,5 +42,4 @@ Sou movido por desafios e acredito que a tecnologia pode transformar vidas! Vamo
 ## 📊 Estatísticas do GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NzongoPedro)](https://github.com/NzongoPedro/github-readme-stats)  
-![Anurag's GitHub stats]([NzongoPedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=NzongoPedro&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats] ![NzongoPedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=NzongoPedro&show_icons=true&theme=radical)
